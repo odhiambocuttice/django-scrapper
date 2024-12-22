@@ -1,0 +1,7 @@
+Django
+selenium
+pydantic
+groq
+beautifulsoup4
+html2text
+webdriver-manager
