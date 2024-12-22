@@ -3,5 +3,4 @@ from app import views
 
 urlpatterns = [
     path('api/', views.api_view, name='api_view'),
-    path('', include('example.urls'))
 ]
